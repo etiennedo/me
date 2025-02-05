@@ -9,6 +9,11 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.2.5"
+    "@astrojs/cloudflare": "^12.2.1",
+    "@fontsource/patrick-hand": "^5.1.1",
+    "@fontsource/reenie-beanie": "^5.1.1",
+    "@tailwindcss/vite": "^4.0.3",
+    "astro": "^5.2.5",
+    "tailwindcss": "^4.0.3"
   }
 }
